@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello, I'm Chayut Piyaosotsun. You can call me Kim! 👋
 
-<!--
-**ChayutPiyaosotsun/ChayutPiyaosotsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate student at Mahidol University, Faculty of Information and Communication Technology, majoring in Database and Intelligent Systems. I aspire to become a Data Engineer, passionate about harnessing the power of data to drive insights and innovation. I'm dedicated to exploring new technologies, mastering data engineering techniques, and contributing to impactful software development.
 
-Here are some ideas to get you started:
+## 🛠 Technologies & Tools
+- **Languages**: Python, SQL
+- **Frameworks & Libraries**: Pandas, NumPy, TensorFlow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChayutPiyaosotsun&show_icons=true)
+
+## 📫 Get In Touch
+- LinkedIn: [Chayut Piyaosotsun]((https://www.linkedin.com/in/chayut-piyaosotsun/)https://www.linkedin.com/in/chayut-piyaosotsun/)
+
+"Let's build something amazing together."
